@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "ubixadmin": "ubix-react-native",
+    "ubixtesting": "ubix-testing",
+    "default": "ubix-react-native"
+  }
+}

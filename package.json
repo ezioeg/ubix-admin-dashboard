@@ -1,0 +1,56 @@
+{
+  "name": "ubixadmin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "firebase": "^7.19.1",
+    "formik": "^2.1.4",
+    "geofirestore": "^4.3.0",
+    "google-maps-react": "^2.0.6",
+    "history": "^5.0.0",
+    "react": "^16.13.1",
+    "react-datepicker": "^4.2.1",
+    "react-dom": "^16.13.1",
+    "react-firebase-file-uploader": "^2.4.3",
+    "react-router": "^6.0.0-alpha.5",
+    "react-router-dom": "^6.0.0-alpha.5",
+    "react-scripts": "3.4.1",
+    "react-toastify": "^7.0.4",
+    "rodal": "^1.8.1",
+    "yup": "^0.29.0"
+  },
+  "scripts": {
+    "start": "npm run watch:css && react-scripts start",
+    "build": "npm run build:css && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build:css": "postcss src/css/tailwind.css -o src/css/main.css",
+    "watch:css": "postcss src/css/tailwind.css -o src/css/main.css"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
+}
