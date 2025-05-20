@@ -12,11 +12,11 @@ Ubix Admin Dashboard is a web application that allows administrators to manage g
 
 ## Technologies Used
 
-- **React**
+- **React**: 16.13.1 version
 - **Context API**
-- **Firebase**: For user authentication, data storage, and notifications.
+- **Firebase**: For user authentication, data storage, and notifications. 7.19.1 version
 - **Google Maps API**
-- **Tailwind CSS**
+- **Tailwind CSS**: 1.4.6 version
 
 ## Setup
 
