@@ -16,15 +16,15 @@ Ubix Admin Dashboard is a web application that allows administrators to manage g
 - React v16.13
 - React Router v6 (alpha)
 
-### State Management
-- Context API
-
 ### UI/Styling
 - Tailwind CSS v1.4.6
 - React Toastify v7.0
 - React Datepicker v4.2
 - Rodal (modals) v1.8
 - FontAwesome React v0.1 (icons v5.15)
+
+### State Management
+- Context API
 
 ### Forms & Validation
 - Formik v2.1
