@@ -30,13 +30,13 @@ Ubix Admin Dashboard is a web application that allows administrators to manage g
 ### State Management
 - Context API
 
+### Maps
+- Google Maps React v2.0
+
 ### Backend as a Service
 - Firebase v7.19 (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions)
 - Geofirestore v4.3
 - React Firebase File Uploader v2.4.3
-
-### Maps
-- Google Maps React v2.0
 
 ## Setup
 
