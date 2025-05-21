@@ -23,12 +23,12 @@ Ubix Admin Dashboard is a web application that allows administrators to manage g
 - Rodal (modals) v1.8
 - FontAwesome React v0.1 (icons v5.15)
 
-### State Management
-- Context API
-
 ### Forms & Validation
 - Formik v2.1
 - Yup v0.29
+
+### State Management
+- Context API
 
 ### Backend as a Service
 - Firebase v7.19 (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions)
