@@ -10,30 +10,31 @@ Ubix Admin Dashboard is a web application that allows administrators to manage g
 
 ## Technologies Used
 ### Core
-- React v16.13
-- React Router v6 (alpha)
+- [React](https://www.npmjs.com/package/react) `v16.13`  
+- [React Router](https://www.npmjs.com/package/react-router) `v6 (alpha)`  
 
-### UI/Styling
-- Tailwind CSS v1.4.6
-- React Toastify v7.0
-- React Datepicker v4.2
-- Rodal (modals) v1.8
-- FontAwesome React v0.1 (icons v5.15)
+### UI / Styling
+- [Tailwind CSS](https://www.npmjs.com/package/tailwindcss) `v1.4.6`  
+- [React Toastify](https://www.npmjs.com/package/react-toastify) `v7.0`  
+- [React Datepicker](https://www.npmjs.com/package/react-datepicker) `v4.2`  
+- [Rodal](https://www.npmjs.com/package/rodal) `v1.8`  
+- [FontAwesome React](https://www.npmjs.com/package/@fortawesome/react-fontawesome) `v0.1` (icons `v5.15`)  
 
 ### Forms & Validation
-- Formik v2.1
-- Yup v0.29
+- [Formik](https://www.npmjs.com/package/formik) `v2.1`  
+- [Yup](https://www.npmjs.com/package/yup) `v0.29`  
 
 ### State Management
-- Context API
+- Context API  
 
 ### Maps
-- Google Maps React v2.0
+- [Google Maps React](https://www.npmjs.com/package/google-maps-react) `v2.0`  
 
 ### Backend as a Service
-- Firebase v7.19 (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions)
-- Geofirestore v4.3
-- React Firebase File Uploader v2.4.3
+- [Firebase](https://www.npmjs.com/package/firebase) `v7.19`  
+  - Módulos usados: Auth, Firestore, Storage, Cloud Messaging, Cloud Functions  
+- [Geofirestore](https://www.npmjs.com/package/geofirestore) `v4.3`  
+- [React Firebase File Uploader](https://www.npmjs.com/package/react-firebase-file-uploader) `v2.4.3`  
 
 ## Setup
 1. Install the dependencies:
