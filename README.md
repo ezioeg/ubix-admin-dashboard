@@ -1,12 +1,12 @@
-# Ubix Admin Dashboard
-Ubix Admin Dashboard is a web application that allows administrators to manage general information, products, orders, and payments for affiliated restaurants. The application is designed to simplify administration and optimize the management of restaurant services.
+## 🛠️ Ubix Admin Dashboard  
+Web application for administrators to manage general information, products, orders, and payments of affiliated restaurants. Designed to simplify administration and optimize service management.
 
-## Features
-- **Product Management**: Add, edit, and delete products from affiliated restaurants.
-- **Order Management**: View and manage orders placed by customers.
-- **Payment Management**: Manage transactions and payments for restaurants.
-- **Web Notifications**: Receive real-time notifications about relevant events.
-- **PWA Installation**: The application can be installed as a Progressive Web App for easier access.
+### Features  
+- **Product Management**: Add, edit, and delete products for affiliated restaurants.  
+- **Order Management**: View and manage customer orders.  
+- **Payment Management**: Oversee transactions and payments for restaurants.  
+- **Web Notifications**: Receive real-time notifications of important events.  
+- **PWA Installation**: Supports installation as a Progressive Web App for easy access.
 
 ## Technologies Used
 ### Core
